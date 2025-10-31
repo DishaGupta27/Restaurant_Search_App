@@ -3,7 +3,7 @@
 Fastor is a web application that helps users discover restaurants near their location. Users can log in with their mobile number, receive an OTP for verification, and explore various restaurants.
 
 ## 🌐 Live Demo  
-👉 [View Live on Netlify]([https://your-app-name.netlify.app](https://nearbyrestaurantsearchapp.netlify.app/))  
+👉 [View Live on Netlify](https://nearbyrestaurantsearchapp.netlify.app/)
 
 ---
 
@@ -84,14 +84,6 @@ To clone the repository and run the application locally, follow these steps:
    ```bash
    npm start
    ```
-
-## Features
-
-- User authentication via mobile number and OTP.
-- Display of nearby restaurants based on user location.
-- Ability to share and download restaurant images with the Fastor logo.
-
----
 
 ## ⚙️ Tech Stack  
 

@@ -9,7 +9,7 @@ Fastor is a web application that helps users discover restaurants near their loc
 
 ## 🧠 Project Overview  
 
-The **Restaurant Search App** offers a smooth, interactive experience — from a simple OTP-based login to a rich restaurant discovery feature with superimposed branding and PWA-like sharing capabilities.
+The App offers a smooth, interactive experience — from a simple OTP-based login to a rich restaurant discovery feature with superimposed branding and PWA-like sharing capabilities.
 
 ---
 

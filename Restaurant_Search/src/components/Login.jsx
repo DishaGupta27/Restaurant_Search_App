@@ -23,7 +23,7 @@ export default function Login() {
                 <img
                     src={logo}
                     alt="Fastor Logo"
-                    className="w-16 h-16 mb-4 drop-shadow-md"
+                    className="w-24 h-auto mx-auto mb-4 object-contain drop-shadow-md"
                 />
 
                 <h1 className="text-2xl font-bold text-green-700 mb-2">Welcome to Fastor</h1>

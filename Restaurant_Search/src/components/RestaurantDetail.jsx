@@ -114,11 +114,12 @@ export default function RestaurantDetail() {
                     <div className="flex items-center gap-2">
                         <img
                             src={logo}
-                            alt="Fastor Logo"
-                            className="w-8 h-8 object-contain"
+                            alt="Fastor logo"
+                            className="w-10 h-10 object-contain"
                         />
-                        <h1 className="text-2xl font-semibold text-green-600">Fastor</h1>
+                        <h1 className="text-green-600 font-bold text-2xl">Fastor</h1>
                     </div>
+
 
                     {/* Back Button */}
                     <button

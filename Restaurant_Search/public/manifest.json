@@ -1,0 +1,21 @@
+{
+    "name": "Fastor - Discover & Share",
+    "short_name": "Fastor",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0ea5e9",
+    "description": "Discover restaurants nearby, drag & share Fastor recommendations instantly.",
+    "icons": [
+        {
+            "src": "/src/assets/fastor-logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/src/assets/fastor-logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Bella Italia",
+        "city": "Agra",
+        "coords": {
+            "lat": 27.1767,
+            "lng": 78.0081
+        },
+        "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 2,
+        "name": "The Spice Route",
+        "city": "Agra",
+        "coords": {
+            "lat": 27.1751,
+            "lng": 78.0421
+        },
+        "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Urban Diner",
+        "city": "Agra",
+        "coords": {
+            "lat": 27.2000,
+            "lng": 78.0200
+        },
+        "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Café Mocha",
+        "city": "Agra",
+        "coords": {
+            "lat": 27.1850,
+            "lng": 78.0300
+        },
+        "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Indian Accent",
+        "city": "New Delhi",
+        "coords": {
+            "lat": 28.5672,
+            "lng": 77.2270
+        },
+        "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Olive Bar & Kitchen",
+        "city": "New Delhi",
+        "coords": {
+            "lat": 28.5285,
+            "lng": 77.1835
+        },
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Social Hauz Khas",
+        "city": "New Delhi",
+        "coords": {
+            "lat": 28.5535,
+            "lng": 77.1920
+        },
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Farzi Café",
+        "city": "Delhi NCR",
+        "coords": {
+            "lat": 28.5699,
+            "lng": 77.3240
+        },
+        "image": "https://images.unsplash.com/photo-1601924582971-d4f22c5a96b7?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 9,
+        "name": "SodaBottleOpenerWala",
+        "city": "Gurugram",
+        "coords": {
+            "lat": 28.4595,
+            "lng": 77.0266
+        },
+        "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 10,
+        "name": "The Big Chill Café",
+        "city": "Delhi NCR",
+        "coords": {
+            "lat": 28.5630,
+            "lng": 77.2410
+        },
+        "image": "https://images.unsplash.com/photo-1576866209830-8ec7d8f7f1b6?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Dum Pukht",
+        "city": "New Delhi",
+        "coords": {
+            "lat": 28.6142,
+            "lng": 77.2089
+        },
+        "image": "https://images.unsplash.com/photo-1606755962773-bb1c9e0c3c5a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Karim’s Jama Masjid",
+        "city": "Old Delhi",
+        "coords": {
+            "lat": 28.6505,
+            "lng": 77.2332
+        },
+        "image": "https://images.unsplash.com/photo-1617196039904-6f0b9e8e7265?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 13,
+        "name": "Biryani Blues",
+        "city": "Noida",
+        "coords": {
+            "lat": 28.5355,
+            "lng": 77.3910
+        },
+        "image": "https://images.unsplash.com/photo-1601066521336-8912c63bf965?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 14,
+        "name": "Pind Balluchi",
+        "city": "Delhi NCR",
+        "coords": {
+            "lat": 28.6139,
+            "lng": 77.2090
+        },
+        "image": "https://images.unsplash.com/photo-1617196039801-bcb41b6a8d1a?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+        "id": 15,
+        "name": "Tamra - Shangri-La Eros",
+        "city": "New Delhi",
+        "coords": {
+            "lat": 28.6205,
+            "lng": 77.2203
+        },
+        "image": "https://images.unsplash.com/photo-1570158268183-d296b2892211?auto=format&fit=crop&w=900&q=80"
+    }
+]

@@ -46,7 +46,7 @@ export default function Login() {
                         type="submit"
                         className="mt-6 w-full bg-green-500 text-white py-3 rounded-full font-semibold hover:bg-green-600 transition-all shadow-md"
                     >
-                        Continue
+                        Send OTP
                     </button>
                 </form>
             </div>

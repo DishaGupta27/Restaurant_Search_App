@@ -92,7 +92,7 @@ export default function RestaurantsList({ onSelect }) {
     return (
         <div className="p-6 bg-[var(--bg-light)] min-h-screen">
             <div className="flex justify-between items-center mb-4">
-                <h3 className="text-xl font-semibold text-[var(--primary)]">Nearby Restaurants</h3>
+                <h3 className="text-xl font-semibold text-[var(--primary)]">Restaurants</h3>
                 <button
                     onClick={handleToggleLocation}
                     className={`px-5 py-2 text-sm rounded-full font-medium transition-all duration-200 shadow-sm ${usingLocation

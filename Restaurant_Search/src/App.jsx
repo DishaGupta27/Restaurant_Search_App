@@ -4,6 +4,8 @@ import Login from './components/Login';
 import OTP from './components/OTP';
 import RestaurantsList from './components/RestaurantsList';
 import RestaurantDetail from './components/RestaurantDetail';
+import logo from './assets/fastor-logo.png';
+
 
 export default function App() {
   useEffect(() => {
@@ -48,7 +50,7 @@ function RestaurantsListPage({ onLogout }) {
           {/* Left side logo */}
           <div className="flex items-center gap-2">
             <img
-              src="/src/assets/fastor-logo.png"
+              src={logo}
               alt="Fastor Logo"
               className="w-8 h-8 object-contain"
             />

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import logo from '../assets/fastor-logo.png';
 
 export default function Login() {
     const [mobile, setMobile] = useState("");
@@ -20,7 +21,7 @@ export default function Login() {
             <div className="bg-white/90 backdrop-blur-md p-8 rounded-3xl shadow-xl w-[90%] max-w-sm flex flex-col items-center">
                 {/* 🌿 Fastor Logo */}
                 <img
-                    src="/src/assets/fastor-logo.png"
+                    src={logo}
                     alt="Fastor Logo"
                     className="w-16 h-16 mb-4 drop-shadow-md"
                 />

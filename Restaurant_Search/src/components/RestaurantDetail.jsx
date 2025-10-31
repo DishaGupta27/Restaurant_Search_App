@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import restaurants from "../../public/restaurants.json";
 import { Rnd } from "react-rnd";
+import logo from '../assets/fastor-logo.png';
 
 export default function RestaurantDetail() {
     const { id } = useParams();
@@ -112,7 +113,7 @@ export default function RestaurantDetail() {
                     {/* Logo + App Name */}
                     <div className="flex items-center gap-2">
                         <img
-                            src="/src/assets/fastor-logo.png"
+                            src={logo}
                             alt="Fastor Logo"
                             className="w-8 h-8 object-contain"
                         />
@@ -163,7 +164,7 @@ export default function RestaurantDetail() {
                         >
                             <div className="w-full h-full flex items-center justify-center bg-transparent cursor-move">
                                 <img
-                                    src="/src/assets/fastor-logo.png"
+                                    src={logo}
                                     alt="Fastor Logo"
                                     className="w-full h-full object-contain pointer-events-none select-none"
                                     draggable="false"
